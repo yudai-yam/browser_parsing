@@ -13,7 +13,7 @@ Firstly, make sure that you are in the right directory
 
 .. code-block::
 
-    cd ls
+    cd src
 
 Then you can run a server as shown below.
 
