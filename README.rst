@@ -9,6 +9,16 @@ How to run
 ----------
 Any HTTP server can be utilised for this to run. Here is an example in Python.
 
+Firstly, make sure that you are in the right directory
+
+.. code-block::
+
+    cd ls
+
+Then you can run a server as shown below.
+
 .. code-block::
 
     python -m http.server
+
+
